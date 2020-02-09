@@ -1,4 +1,4 @@
-package com.ruthika.gifts.sweets;
+package com.rohit.gifts.sweets;
 
 public abstract class Sweet implements Cloneable {
     private double weight,sweetness;
