@@ -1,4 +1,4 @@
-package com.ruthika.gifts.sweets;
+package com.rohit.gifts.sweets;
 
 
 public class fivestar extends Sweet{
