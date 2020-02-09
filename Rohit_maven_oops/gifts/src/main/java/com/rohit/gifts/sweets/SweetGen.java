@@ -1,4 +1,4 @@
-package com.ruthika.gifts.sweets;
+package com.rohit.gifts.sweets;
 
 import java.util.Iterator;
 import java.util.Random;
