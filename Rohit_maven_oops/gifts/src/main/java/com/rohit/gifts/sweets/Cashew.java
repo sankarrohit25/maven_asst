@@ -1,5 +1,5 @@
 
-package com.ruthika.gifts.sweets;
+package com.rohit.gifts.sweets;
 
 
 public class Cashew extends Sweet{
